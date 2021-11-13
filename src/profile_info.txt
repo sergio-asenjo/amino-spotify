@@ -1,0 +1,12 @@
+[C]
+[C]
+[C]Aᴄᴛᴜᴀʟᴍᴇɴᴛᴇ Esᴄᴜᴄʜᴀɴᴅᴏ:
+[BC][{song_title}|{link}]
+[C]
+[CI]{artists}
+[C]
+[C]{current_ms} {bar} {total_duration}
+[C]
+[C]
+[C]
+[C]
